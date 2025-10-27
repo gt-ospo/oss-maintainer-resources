@@ -3,23 +3,23 @@
 This checklist is meant to help maintainers of community-focused open source projects think through the steps of how to improve their project's community engagement and presence. Note this list is likely not comprehensive - suggestions and improvements are welcome! 
 
 ## Increase Visibility and Usage
-- [ ] Add an appropriate open-source  **LICENSE** file.
-- [ ] Provide a clear and comprehensive **README** file.
-- [ ] Include a **Getting Started guide** for new users.
-- [ ] If you looking for community growth of your project, create a **Newcommer Engagement guide**.
-- [ ] Offer **avenues for feedback** and **community discussion** (e.g., issues, GitHub discussions, Discord, etc.). 
-- [ ] Ensure users can **cite your work properly**.
+- [ ] Add an appropriate open-source  **LICENSE** file. ![Static Badge](https://img.shields.io/badge/must--have-musthave?style=plastic&color=light%20green)
+- [ ] Provide a clear and comprehensive **README** file. ![Static Badge](https://img.shields.io/badge/must--have-musthave?style=plastic&color=light%20green)
+- [ ] Include a **Getting Started guide** for new users. ![Static Badge](https://img.shields.io/badge/must--have-musthave?style=plastic&color=light%20green)
+- [ ] Add a **security policy and infrastructure** for secure development (e.g., Dependabot, CI/CD) ![Static Badge](https://img.shields.io/badge/must--have-musthave?style=plastic&color=light%20green)
+- [ ] Offer **avenues for feedback** and **community discussion** (e.g., issues, GitHub discussions, Discord, etc.). ![Static Badge](https://img.shields.io/badge/must--have-musthave?style=plastic&color=light%20green)
+- [ ] If you looking for community growth of your project, create a **Newcomer Engagement guide**. ![Static Badge](https://img.shields.io/badge/nice--to--have-nicetohave?style=plastic&color=red)
+- [ ] Ensure users can **cite your work properly**. ![Static Badge](https://img.shields.io/badge/nice--to--have-nicetohave?style=plastic&color=red)
   - [ ] Add **citation files** and references to related publications.
-- [ ] Add a **security policy and infrastructure** for secure development (e.g., Dependabot, CI/CD)
-- [ ] Consider publishing about software releases via venues like the **Journal of Open Source Software (JOSS)**.
-- [ ] Review your project's adherence to OSS best practices with tools like [**RepoAuditor**](github.com/gt-sse-center/RepoAuditor) and [**OpenSSF's Security ScoreCard**](https://openssf.org/projects/scorecard/).
-- [ ] Implement a **community discovery and engagement plan**, as supported by programs like NSF's POSE program.
+- [ ] Consider publishing about software releases via venues like the **Journal of Open Source Software (JOSS)** for major releases (every 1-2 years). ![Static Badge](https://img.shields.io/badge/nice--to--have-nicetohave?style=plastic&color=red)
+- [ ] Review your project's adherence to OSS best practices with automated tools like [**RepoAuditor**](github.com/gt-sse-center/RepoAuditor), RepoLinter, and [**OpenSSF's Security ScoreCard**](https://openssf.org/projects/scorecard/). ![Static Badge](https://img.shields.io/badge/nice--to--have-nicetohave?style=plastic&color=red)
+
 
 ---
 
 ## Improve Community Engagement
-
 - [ ] Make it easy to **submit issues and improvements**.
+- [ ] Implement a **community discovery and engagement plan**, as supported by programs like NSF's POSE program.
 - [ ] Provide a clear **Contributing Guide**.
 - [ ] Add a **COMMUNITY** page to clearly list who has contributed to the code. 
 - [ ] Use **automated testing**  and **code linting** to ensure code quality.
