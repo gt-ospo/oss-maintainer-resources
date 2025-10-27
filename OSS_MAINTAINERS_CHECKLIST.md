@@ -6,7 +6,7 @@ This checklist is meant to help maintainers of community-focused open source pro
 - [ ] Add an appropriate open-source  **LICENSE** file.
 - [ ] Provide a clear and comprehensive **README** file.
 - [ ] Include a **Getting Started guide** for new users.
-- [ ] If you looking for student contributions to your project, create a **Student Engagement guide**.
+- [ ] If you looking for community growth of your project, create a **Newcommer Engagement guide**.
 - [ ] Offer **avenues for feedback** and **community discussion** (e.g., issues, GitHub discussions, Discord, etc.). 
 - [ ] Ensure users can **cite your work properly**.
   - [ ] Add **citation files** and references to related publications.
