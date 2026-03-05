@@ -1,13 +1,16 @@
 # Open-Sourcing Foundational AI Models & Systems  
-*A Practical Guide for Professors in AI Research*
+
+Before you get started, we encourage you to review open source AI guidelines and guidance from the [Open Source Initiative](https://opensource.org/), maintainers of the official open source definition and a newly released definition for Open Source AI. Note that it may not be possibly to release a fully open source AI model due to a variety of constraints, and that there is ongoing discussion about the benefits and disadvantages of releasing code as open weights or fully open source. 
+
+[OSI - What are Open Weights?](https://opensource.org/ai/open-weights)
 
 If your research focuses on foundational AI models and systems, your open-source strategy should balance:
 
 - 📄 Academic citation & reproducibility  
 - 🧪 Research transparency  
 - 🏗 Long-term infrastructure sustainability  
-- ⚖ Licensing/IP protection  
-- 🌍 Community adoption  
+- ⚖ Licensing/IP protections  
+- 🌍 Community adoption
 
 ---
 
